@@ -18,11 +18,11 @@ const client = sanityClient({
 const IndexPage = () => {
     const [data, setData] = useState([
         {
-           title: 'Hello',
+           title: 'Madhuri',
            body: []
         }, 
         {
-            title: 'World',
+            title: 'Sharma',
             body: []
         }
     ])
