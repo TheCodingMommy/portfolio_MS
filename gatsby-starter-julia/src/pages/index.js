@@ -6,7 +6,7 @@ import sanityClient from '@sanity/client';
 import BlockContent from '@sanity/block-content-to-react';
 
 const client = sanityClient({
-  projectId: 'tdktold2',
+  projectId: 'c85q2e1h',
   dataset: 'production',
   apiVersion: '2019-01-29', // use current UTC date - see "specifying API version"!
   token: '',
